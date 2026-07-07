@@ -22,7 +22,7 @@
 
 | 워크스페이스 | 설명 | 저장소 |
 |---|---|---|
-| **HTML/CSS 워크스페이스** | 웹 페이지의 기본 구조와 스타일링 학습 공간 | [바로가기](https://github.com/사용자명/html-css-workspace) |
+| **HTML/CSS 워크스페이스** | 웹 페이지의 기본 구조와 스타일링 학습 공간 | [바로가기](https://github.com/devlearncampus/html_workspace) |
 | **JavaScript 워크스페이스** | JavaScript 문법, DOM, 이벤트, 비동기 처리 학습 공간 |  |
 | **Vue 워크스페이스** | Vue 기반 컴포넌트, 라우팅, 상태관리 학습 공간 |  |
 | **React 워크스페이스** | React 컴포넌트, Hooks, Router, 상태관리 학습 공간 |  |

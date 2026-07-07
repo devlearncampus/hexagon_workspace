@@ -49,13 +49,12 @@
 
 ---
 
-## 📌 사용 안내
+## 📌 자료실 안내
 
-각 워크스페이스는 독립적인 학습 및 실습 저장소로 구성됩니다.  
-저장소 링크는 실제 GitHub Repository 주소로 변경해서 사용하시면 됩니다.
+수업에 필요한 파일 등을 자료실에서 다운로드 받으세요
 
 ```md
-[바로가기](https://github.com/사용자명/저장소명)
+[바로가기]([https://github.com/사용자명/저장소명](https://drive.google.com/drive/folders/1ba5EdDtr3PGysfgIYm98_0T1pjw-KtSp?usp=drive_link))
 ```
 
 ---

@@ -1,4 +1,4 @@
-# 🚀 Devlearn Campus Workspace
+# 🚀 헥사곤 12기 Workspace
 
 <div align="center">
 

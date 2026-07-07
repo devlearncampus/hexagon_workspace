@@ -23,9 +23,9 @@
 | 워크스페이스 | 설명 | 저장소 |
 |---|---|---|
 | **HTML/CSS 워크스페이스** | 웹 페이지의 기본 구조와 스타일링 학습 공간 | [바로가기](https://github.com/사용자명/html-css-workspace) |
-| **JavaScript 워크스페이스** | JavaScript 문법, DOM, 이벤트, 비동기 처리 학습 공간 | [바로가기](https://github.com/사용자명/javascript-workspace) |
-| **Vue 워크스페이스** | Vue 기반 컴포넌트, 라우팅, 상태관리 학습 공간 | [바로가기](https://github.com/사용자명/vue-workspace) |
-| **React 워크스페이스** | React 컴포넌트, Hooks, Router, 상태관리 학습 공간 | [바로가기](https://github.com/사용자명/react-workspace) |
+| **JavaScript 워크스페이스** | JavaScript 문법, DOM, 이벤트, 비동기 처리 학습 공간 | [바로가기](#) |
+| **Vue 워크스페이스** | Vue 기반 컴포넌트, 라우팅, 상태관리 학습 공간 | [바로가기](#) |
+| **React 워크스페이스** | React 컴포넌트, Hooks, Router, 상태관리 학습 공간 | [바로가기](#) |
 
 ---
 
@@ -33,10 +33,10 @@
 
 | 워크스페이스 | 설명 | 저장소 |
 |---|---|---|
-| **Database 워크스페이스** | SQL, ERD, 정규화, 트랜잭션, 인덱스 학습 공간 | [바로가기](https://github.com/사용자명/database-workspace) |
-| **JSP/Servlet 워크스페이스** | Java 웹 기본 구조, Servlet, JSP, MVC 패턴 학습 공간 | [바로가기](https://github.com/사용자명/jsp-servlet-workspace) |
-| **SpringFramwork 워크스페이스** | Spring Framework 기반 DI, MVC, MyBatis, Security 학습 공간 | [바로가기](https://github.com/사용자명/spring-framework-workspace) |
-| **SpringBoot 워크스페이스** | Spring Boot 기반 REST API, JWT, JPA/MyBatis, 배포 학습 공간 | [바로가기](https://github.com/사용자명/springboot-workspace) |
+| **Database 워크스페이스** | SQL, ERD, 정규화, 트랜잭션, 인덱스 학습 공간 | [바로가기](#) |
+| **JSP/Servlet 워크스페이스** | Java 웹 기본 구조, Servlet, JSP, MVC 패턴 학습 공간 | [바로가기](#) |
+| **SpringFramwork 워크스페이스** | Spring Framework 기반 DI, MVC, MyBatis, Security 학습 공간 | [바로가기](#) |
+| **SpringBoot 워크스페이스** | Spring Boot 기반 REST API, JWT, JPA/MyBatis, 배포 학습 공간 | [바로가기](#) |
 
 ---
 
@@ -44,8 +44,8 @@
 
 | 워크스페이스 | 설명 | 저장소 |
 |---|---|---|
-| **Docker 워크스페이스** | Dockerfile, Image, Container, Compose 학습 공간 | [바로가기](https://github.com/사용자명/docker-workspace) |
-| **클라우드 워크스페이스** | AWS, Linux 서버, 배포, 운영 환경 구성 학습 공간 | [바로가기](https://github.com/사용자명/cloud-workspace) |
+| **Docker 워크스페이스** | Dockerfile, Image, Container, Compose 학습 공간 | [바로가기](#) |
+| **클라우드 워크스페이스** | AWS, Linux 서버, 배포, 운영 환경 구성 학습 공간 | [바로가기](#) |
 
 ---
 

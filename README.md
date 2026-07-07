@@ -51,11 +51,9 @@
 
 ## 📌 자료실 안내
 
-수업에 필요한 파일 등을 자료실에서 다운로드 받으세요
+수업에 필요한 파일 등을 자료실에서 다운로드 받으세요.
 
-```md
-[바로가기]([https://github.com/사용자명/저장소명](https://drive.google.com/drive/folders/1ba5EdDtr3PGysfgIYm98_0T1pjw-KtSp?usp=drive_link))
-```
+[바로가기](https://drive.google.com/drive/folders/1ba5EdDtr3PGysfgIYm98_0T1pjw-KtSp?usp=drive_link)
 
 ---
 

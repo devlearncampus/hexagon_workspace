@@ -53,8 +53,9 @@
 
 수업에 필요한 파일 등을 자료실에서 다운로드 받으세요.
 
-[바로가기](https://drive.google.com/drive/folders/1ba5EdDtr3PGysfgIYm98_0T1pjw-KtSp?usp=drive_link)
-[구글 Meet ](https://meet.google.com/ysx-pnyo-jpj)
+[자료실](https://drive.google.com/drive/folders/1ba5EdDtr3PGysfgIYm98_0T1pjw-KtSp?usp=drive_link)
+
+[구글 Meet](https://meet.google.com/ysx-pnyo-jpj)
 
 ---
 

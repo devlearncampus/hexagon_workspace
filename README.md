@@ -55,7 +55,7 @@
 
 [자료실](https://drive.google.com/drive/folders/1ba5EdDtr3PGysfgIYm98_0T1pjw-KtSp?usp=drive_link)
 
-[구글 Meet](https://meet.google.com/rjh-uyep-tky)
+[구글 Meet](https://meet.google.com/zry-axru-hjx)
 
 ---
 
